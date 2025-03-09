@@ -1,4 +1,4 @@
-# ![No-notify](https://github.com/user-attachments/assets/bbbcfc52-0213-4427-a44c-c08e081c540c)
+# ![Untitled](https://github.com/user-attachments/assets/2cad5733-8568-4dc2-95fb-4a0f4b0bfc3f)
 No-Notify is a BetterDiscord plugin that adds a convenient, clickable button to mute all your servers in seconds. Perfect for when you need a quick break from notifications!
 
 - 🚀 Features
@@ -13,3 +13,4 @@ Enable the plugin in BetterDiscord's settings.
 - 📌 Notes
 Requires BetterDiscord to work.
 Make sure to use the latest version for the best experience.
+
