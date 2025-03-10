@@ -9,7 +9,7 @@ User-friendly interface.
 Saves time and keeps things quiet when you need it.
 
 - 📦 Installation
-%AppData%\BetterDiscord\plugins
+`%AppData%\BetterDiscord\plugins`
 Enable the plugin in BetterDiscord's settings.
 
 - 📌 Notes
