@@ -16,3 +16,5 @@ Enable the plugin in BetterDiscord's settings.
 Requires BetterDiscord to work.
 Make sure to use the latest version for the best experience.
 
+
+![image](https://github.com/user-attachments/assets/20fe90f8-ea41-4d39-97a5-852fcb30f87d)
