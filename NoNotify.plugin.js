@@ -1,7 +1,7 @@
 /**
  * @name No-Notify
  * @author femfus
- * @authorLink https://github.com/Zerthox
+ * @authorLink https://github.com/femfus
  * @description No-Notify is a plugin that mutes all servers within seconds!
  * @version 1.0.0
  */
